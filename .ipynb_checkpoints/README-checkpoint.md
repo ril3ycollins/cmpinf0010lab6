@@ -1,1 +1,0 @@
-# cmpinf0010lab6
